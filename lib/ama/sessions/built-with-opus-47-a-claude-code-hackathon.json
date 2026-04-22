@@ -1,0 +1,2102 @@
+{
+  "id": 1776881761607,
+  "slug": "built-with-opus-47-a-claude-code-hackathon",
+  "vimeo_id": "1185231842",
+  "vimeo_url": "https://vimeo.com/1185231842",
+  "title": "[HACKATHON KICKOFF] Built with Opus 4.7: a Claude Code hackathon",
+  "duration_seconds": 1282,
+  "thumbnail_url": null,
+  "raw_cues": [
+    {
+      "start": 21.54,
+      "end": 23.82,
+      "text": "Hey everyone. My name is Jason Bigman."
+    },
+    {
+      "start": 23.9,
+      "end": 27.76,
+      "text": "I lead the community team here at Anthropic, and I am extremely excited to"
+    },
+    {
+      "start": 27.82,
+      "end": 31.79,
+      "text": "welcome you all to Build with Opus 4.7, our virtual Claude"
+    },
+    {
+      "start": 31.86,
+      "end": 34.66,
+      "text": "Code Hackathon, our global virtual Claude Code Hackathon."
+    },
+    {
+      "start": 36.06,
+      "end": 39.42,
+      "text": "This is our second Claude Code Hackathon in partnership with Cerebral Valley."
+    },
+    {
+      "start": 39.94,
+      "end": 43.48,
+      "text": "And once again, we were just absolutely blown away by the interest."
+    },
+    {
+      "start": 44.56,
+      "end": 48.34,
+      "text": "We had applications open for a little bit more than 48 hours, and we"
+    },
+    {
+      "start": 48.38,
+      "end": 51.04,
+      "text": "received more than 20,000 applications."
+    },
+    {
+      "start": 51.72,
+      "end": 54.68,
+      "text": "So the 500 of you all represent just a"
+    },
+    {
+      "start": 54.9,
+      "end": 58.84,
+      "text": "2.4% acceptance rate. And for context, that's more"
+    },
+    {
+      "start": 58.88,
+      "end": 61.05,
+      "text": "selective than any university in the United States."
+    },
+    {
+      "start": 61.3,
+      "end": 64.431,
+      "text": "Not quite as selective as the India Institute of"
+    },
+    {
+      "start": 64.481,
+      "end": 67.62,
+      "text": "Technology, but similarly selective as Y"
+    },
+    {
+      "start": 67.66,
+      "end": 71.32,
+      "text": "Combinator. And Y Combinator is maybe an appropriate"
+    },
+    {
+      "start": 71.36,
+      "end": 75.08,
+      "text": "comparison, because as you all will hear this week, the"
+    },
+    {
+      "start": 75.12,
+      "end": 78.68,
+      "text": "winners of our Build with Opus 4.6 Hackathon a couple months ago"
+    },
+    {
+      "start": 79.16,
+      "end": 82.5,
+      "text": "have gone on to turn their projects into startups or have been acquired."
+    },
+    {
+      "start": 83.5,
+      "end": 87.46,
+      "text": "So in that sense, this hackathon is both an opportunity to push the limits"
+    },
+    {
+      "start": 87.56,
+      "end": 91.4,
+      "text": "of Claude Code and Opus 4.7 to compete for some awesome"
+    },
+    {
+      "start": 91.44,
+      "end": 95.43,
+      "text": "Claude API credits, but potentially also an opportunity to incubate your"
+    },
+    {
+      "start": 95.46,
+      "end": 95.96,
+      "text": "next startup."
+    },
+    {
+      "start": 97.14,
+      "end": 100.28,
+      "text": "So we have 500 global builders building for the next week."
+    },
+    {
+      "start": 100.54,
+      "end": 101.68,
+      "text": "Who are all of you?"
+    },
+    {
+      "start": 102.62,
+      "end": 105.46,
+      "text": "You all hail from 76 different countries."
+    },
+    {
+      "start": 106.02,
+      "end": 109.71,
+      "text": "This is truly a global group. Only 15% of you all are from the United"
+    },
+    {
+      "start": 109.8,
+      "end": 113.39,
+      "text": "States. And you all come from literally every"
+    },
+    {
+      "start": 113.46,
+      "end": 114.93,
+      "text": "background. We, of course,"
+    },
+    {
+      "start": 115.92,
+      "end": 119.78,
+      "text": "have lots of participants from major global cities like San Francisco, New"
+    },
+    {
+      "start": 119.84,
+      "end": 122.84,
+      "text": "York, London, Tokyo, Singapore, Bangalore, Sydney."
+    },
+    {
+      "start": 123.74,
+      "end": 126.8,
+      "text": "But we also have an oncology doctor from Uzbekistan,"
+    },
+    {
+      "start": 128.039,
+      "end": 131.22,
+      "text": "a computer science teacher at a public school in Quito, Ecuador,"
+    },
+    {
+      "start": 132.4,
+      "end": 135.84,
+      "text": "a freelance designer in Eswatini in Southern Africa."
+    },
+    {
+      "start": 135.88,
+      "end": 139.86,
+      "text": "So we have both someone from Norway's trillion-dollar"
+    },
+    {
+      "start": 140.06,
+      "end": 144.04,
+      "text": "oil fund and also someone running a family security guard business in Ventura,"
+    },
+    {
+      "start": 144.08,
+      "end": 147.85,
+      "text": "California. We have an engineer at Airbus Defence and"
+    },
+    {
+      "start": 148,
+      "end": 151.92,
+      "text": "Space in Warsaw, Poland, and a junior high school teacher in rural Ghana."
+    },
+    {
+      "start": 152.72,
+      "end": 154.54,
+      "text": "And this is so exciting to me,"
+    },
+    {
+      "start": 155.34,
+      "end": 158.12,
+      "text": "because it shows the reach and power of Claude and Claude Code."
+    },
+    {
+      "start": 158.67,
+      "end": 162.14,
+      "text": "Anyone, any background, anywhere in the world can use these"
+    },
+    {
+      "start": 162.18,
+      "end": 163.56,
+      "text": "tools to solve problems."
+    },
+    {
+      "start": 164.38,
+      "end": 167.88,
+      "text": "And the through line with all of you is that this is not a beginner crowd."
+    },
+    {
+      "start": 168.8,
+      "end": 172.62,
+      "text": "95% of you self-identify as experienced or expert in"
+    },
+    {
+      "start": 172.64,
+      "end": 176.62,
+      "text": "Claude Code. So looking forward to some very cool builds"
+    },
+    {
+      "start": 176.76,
+      "end": 177.82,
+      "text": "and cool projects from you all."
+    },
+    {
+      "start": 179.84,
+      "end": 182.1,
+      "text": "So Build with Opus 4.7, what are we doing this week?"
+    },
+    {
+      "start": 182.58,
+      "end": 185.98,
+      "text": "Of course, the goal here is we want you all to push the limits of Opus"
+    },
+    {
+      "start": 186.1,
+      "end": 189.8,
+      "text": "4.7 and Claude Code. And we're also excited to see how you might"
+    },
+    {
+      "start": 189.88,
+      "end": 193.62,
+      "text": "use some new features like Claude Managed Agents or Claude Design,"
+    },
+    {
+      "start": 193.94,
+      "end": 196.85,
+      "text": "two new features that can really accelerate your project and bring them to life in"
+    },
+    {
+      "start": 196.85,
+      "end": 197.3,
+      "text": "new ways."
+    },
+    {
+      "start": 198.24,
+      "end": 202.16,
+      "text": "We're going to have four talks over the week, which Ivan from Cerebral Valley"
+    },
+    {
+      "start": 202.18,
+      "end": 205.51,
+      "text": "will be talking us through more. We're going to have Thariq from the Claude Code"
+    },
+    {
+      "start": 205.62,
+      "end": 209.56,
+      "text": "team talking about Claude Code. We have Michael Cohen from the Claude Managed"
+    },
+    {
+      "start": 209.62,
+      "end": 211.32,
+      "text": "Agents team talking about that feature."
+    },
+    {
+      "start": 211.84,
+      "end": 214.84,
+      "text": "And we're also going to have talks from two of our winners of the last hackathon to"
+    },
+    {
+      "start": 214.88,
+      "end": 217.74,
+      "text": "talk about their experience in the hackathon and what they've been up to"
+    },
+    {
+      "start": 217.78,
+      "end": 221.73,
+      "text": "since. The other thing that I'll call out in the Discord, you'll"
+    },
+    {
+      "start": 221.78,
+      "end": 224.42,
+      "text": "also notice another group of participants there."
+    },
+    {
+      "start": 224.6,
+      "end": 228.46,
+      "text": "These are community mentors. And so these are amazing participants"
+    },
+    {
+      "start": 228.5,
+      "end": 230.17,
+      "text": "from our last hackathon two months ago,"
+    },
+    {
+      "start": 231.32,
+      "end": 233.98,
+      "text": "who we are lucky enough to be able to welcome back this time."
+    },
+    {
+      "start": 234,
+      "end": 237.46,
+      "text": "And they'll be in the Discord to help answer questions, help refine your ideas,"
+    },
+    {
+      "start": 238.34,
+      "end": 241.06,
+      "text": "and generally just help you all with your projects as you build throughout the"
+    },
+    {
+      "start": 241.1,
+      "end": 244.02,
+      "text": "week. So if you see them in the Discord, make sure to say hey."
+    },
+    {
+      "start": 244.17,
+      "end": 245.329,
+      "text": "They're all really, really wonderful."
+    },
+    {
+      "start": 247.12,
+      "end": 249.98,
+      "text": "So in terms of what you all should be building,"
+    },
+    {
+      "start": 250.84,
+      "end": 254.3,
+      "text": "Ivan will be sharing more about this, but we have some problem statements for the"
+    },
+    {
+      "start": 254.34,
+      "end": 254.52,
+      "text": "week."
+    },
+    {
+      "start": 255.74,
+      "end": 257.86,
+      "text": "The first one is to build from what you know."
+    },
+    {
+      "start": 258.56,
+      "end": 262.55,
+      "text": "And we want you to build the thing that only you would know to build, whether it's"
+    },
+    {
+      "start": 262.56,
+      "end": 266.2,
+      "text": "something from your work, your community, your life, something that"
+    },
+    {
+      "start": 266.26,
+      "end": 268.4,
+      "text": "hasn't yet been addressed with code."
+    },
+    {
+      "start": 268.409,
+      "end": 271.58,
+      "text": "And so the example here is real-world problems, niche"
+    },
+    {
+      "start": 271.64,
+      "end": 275.24,
+      "text": "interests, the thing that takes weeks right now that instead should just take"
+    },
+    {
+      "start": 275.32,
+      "end": 275.66,
+      "text": "hours."
+    },
+    {
+      "start": 276.56,
+      "end": 280.32,
+      "text": "The other main prompt we have for the week is to build for what's next."
+    },
+    {
+      "start": 280.84,
+      "end": 284.58,
+      "text": "So we want you to start from something that doesn't exist yet, a new way to"
+    },
+    {
+      "start": 284.62,
+      "end": 288.5,
+      "text": "work, a new way to learn, that only makes sense now that the tools"
+    },
+    {
+      "start": 288.54,
+      "end": 292.14,
+      "text": "have changed. And this is where we really want you to aim for where the models are"
+    },
+    {
+      "start": 292.16,
+      "end": 296.12,
+      "text": "going. Maybe the models aren't quite there yet, but you see the path"
+    },
+    {
+      "start": 296.13,
+      "end": 298.83,
+      "text": "towards something new that can be unlocked in the future."
+    },
+    {
+      "start": 299.5,
+      "end": 303.48,
+      "text": "And the way to think about this prize is if it's easier to demo than to explain,"
+    },
+    {
+      "start": 304.54,
+      "end": 308.21,
+      "text": "you're on the right track. We also have a few special prizes for most"
+    },
+    {
+      "start": 308.24,
+      "end": 312.11,
+      "text": "creative exploration. So this is someone who's using Opus 4.7 and Claude"
+    },
+    {
+      "start": 312.18,
+      "end": 314.26,
+      "text": "Code as a creative medium, not just a tool."
+    },
+    {
+      "start": 314.96,
+      "end": 318.9,
+      "text": "The keep thinking prize for the person who finds the real-world problem"
+    },
+    {
+      "start": 318.94,
+      "end": 322.84,
+      "text": "that no one thought to point Claude at, and then also a prize for the best use"
+    },
+    {
+      "start": 322.88,
+      "end": 326.42,
+      "text": "of Claude Managed Agents, which is exactly that. Who used it best."
+    },
+    {
+      "start": 327.74,
+      "end": 330.88,
+      "text": "So extremely excited to have you all here for the week."
+    },
+    {
+      "start": 330.92,
+      "end": 332.8,
+      "text": "This is going to be a really, really awesome time."
+    },
+    {
+      "start": 334.14,
+      "end": 338.03,
+      "text": "And from here, I'm going to turn it over to Boris Cherny, the creator of Claude"
+    },
+    {
+      "start": 338.1,
+      "end": 341.94,
+      "text": "Code, who's going to share some words with you all."
+    },
+    {
+      "start": 342.52,
+      "end": 343,
+      "text": "Hey, everyone."
+    },
+    {
+      "start": 344.02,
+      "end": 347.66,
+      "text": "It's crazy that there's even more people here than the last hackathon,"
+    },
+    {
+      "start": 348.04,
+      "end": 350.38,
+      "text": "although maybe it's not that surprising."
+    },
+    {
+      "start": 350.92,
+      "end": 354.8,
+      "text": "The last one was in February, and Claude Code has"
+    },
+    {
+      "start": 354.84,
+      "end": 358.03,
+      "text": "just continued to grow exponentially, and the community has just"
+    },
+    {
+      "start": 359,
+      "end": 362.38,
+      "text": "kept growing and getting bigger and bigger and building more and more cool"
+    },
+    {
+      "start": 362.44,
+      "end": 366.309,
+      "text": "stuff.So in some ways, it's actually no surprise that"
+    },
+    {
+      "start": 366.32,
+      "end": 370.01,
+      "text": "there's so many more people here, and there's just so much more excitement about"
+    },
+    {
+      "start": 370.52,
+      "end": 373.5,
+      "text": "building on Claude and building with Claude Code."
+    },
+    {
+      "start": 374.64,
+      "end": 377.86,
+      "text": "I wanted to share a few reflections on"
+    },
+    {
+      "start": 378.38,
+      "end": 381.88,
+      "text": "4.7, because I think this is just such a different model than"
+    },
+    {
+      "start": 382,
+      "end": 384.16,
+      "text": "4.6, and I think people just don't really get it yet."
+    },
+    {
+      "start": 385.1,
+      "end": 389.08,
+      "text": "So in this group of people that are building with the model and are using"
+    },
+    {
+      "start": 389.12,
+      "end": 392.48,
+      "text": "it every day, I wanted to share maybe a few of my impressions about how to use it"
+    },
+    {
+      "start": 392.5,
+      "end": 393.94,
+      "text": "most effectively."
+    },
+    {
+      "start": 395.04,
+      "end": 395.2,
+      "text": "So,"
+    },
+    {
+      "start": 396.26,
+      "end": 399.84,
+      "text": "4.7 to me is a giant step up in capability."
+    },
+    {
+      "start": 400.5,
+      "end": 404.48,
+      "text": "However, if you use it the same way that you used 4.6, you won't feel that step"
+    },
+    {
+      "start": 404.52,
+      "end": 407.56,
+      "text": "up. You might feel a little improvement, but it won't feel like the big bump that"
+    },
+    {
+      "start": 407.58,
+      "end": 408.16,
+      "text": "it really is."
+    },
+    {
+      "start": 409.14,
+      "end": 413.1,
+      "text": "There's a few things that 4.7 is really good at that we're going to start to"
+    },
+    {
+      "start": 413.12,
+      "end": 416.32,
+      "text": "talk about a little bit more maybe on Twitter and in blog posts and things like"
+    },
+    {
+      "start": 416.36,
+      "end": 419.18,
+      "text": "that, but I'll kind of preview it here."
+    },
+    {
+      "start": 419.24,
+      "end": 422.429,
+      "text": "The biggest thing is it's just amazing at long-running"
+    },
+    {
+      "start": 422.46,
+      "end": 426.36,
+      "text": "work. So anything where you have to work not just for a few minutes at a"
+    },
+    {
+      "start": 426.4,
+      "end": 429.9,
+      "text": "time with a single prompt, but maybe for 30 minutes or maybe a few"
+    },
+    {
+      "start": 429.98,
+      "end": 433.739,
+      "text": "hours. I've run 4.7 for multiple days at a time,"
+    },
+    {
+      "start": 433.82,
+      "end": 434.92,
+      "text": "and it stays on track."
+    },
+    {
+      "start": 435.94,
+      "end": 439.28,
+      "text": "So very long-running work, it just really stays on the"
+    },
+    {
+      "start": 439.3,
+      "end": 441.94,
+      "text": "rails in a way that previous models did not."
+    },
+    {
+      "start": 443,
+      "end": 444.94,
+      "text": "The second thing is it's just much more precise."
+    },
+    {
+      "start": 445.54,
+      "end": 449.2,
+      "text": "So if you tell it a specific goal, you have to articulate your prompt"
+    },
+    {
+      "start": 449.28,
+      "end": 453.02,
+      "text": "more clearly than you did with previous models, because"
+    },
+    {
+      "start": 453.14,
+      "end": 456.44,
+      "text": "it'll listen more precisely to what you said, and it'll follow the instructions"
+    },
+    {
+      "start": 456.5,
+      "end": 460.21,
+      "text": "better. But if you tell it what to do, it generally will just stay on"
+    },
+    {
+      "start": 460.26,
+      "end": 462.75,
+      "text": "track and do that thing until it's done."
+    },
+    {
+      "start": 463.59,
+      "end": 466.37,
+      "text": "There's a few things that we built in Claude Code to make that a little bit easier."
+    },
+    {
+      "start": 467.14,
+      "end": 470.85,
+      "text": "One is /loop. I use this every day. I have"
+    },
+    {
+      "start": 470.92,
+      "end": 474.62,
+      "text": "dozens of loops running any given moment, and what they're doing"
+    },
+    {
+      "start": 474.8,
+      "end": 477.98,
+      "text": "is essentially any kind of repetitive work that's not building the main thing."
+    },
+    {
+      "start": 479,
+      "end": 481.58,
+      "text": "So this is things like I have a loop for babysitting my PRs."
+    },
+    {
+      "start": 481.68,
+      "end": 485.4,
+      "text": "Once I put up a pull request, I have a loop that will babysit it, it'll auto-rebase"
+    },
+    {
+      "start": 485.46,
+      "end": 489.24,
+      "text": "it, it'll fix CI, it'll address code review comments all the way until it gets to"
+    },
+    {
+      "start": 489.26,
+      "end": 492.96,
+      "text": "production. I have another one that cleans up CI."
+    },
+    {
+      "start": 493.5,
+      "end": 497.08,
+      "text": "So if there's tests that are consistently failing, there's a loop that'll go in,"
+    },
+    {
+      "start": 497.2,
+      "end": 500.74,
+      "text": "and every 30 minutes, it'll just put up fixes to fix the tests or"
+    },
+    {
+      "start": 501.02,
+      "end": 503.26,
+      "text": "delete them if they're not necessary."
+    },
+    {
+      "start": 503.27,
+      "end": 505.46,
+      "text": "I have a bunch of loops running for everything."
+    },
+    {
+      "start": 505.52,
+      "end": 508.84,
+      "text": "So this is one way to make Claude run for a very long period of time."
+    },
+    {
+      "start": 508.9,
+      "end": 512.68,
+      "text": "It's a single Claude, and you just use /loop, and it'll"
+    },
+    {
+      "start": 512.821,
+      "end": 516.76,
+      "text": "reawaken every five minutes, 30 minutes, day, however often"
+    },
+    {
+      "start": 516.8,
+      "end": 517.18,
+      "text": "you tell it."
+    },
+    {
+      "start": 518.68,
+      "end": 522.5,
+      "text": "The second mechanism is routines, and this is essentially a loop"
+    },
+    {
+      "start": 522.98,
+      "end": 526.82,
+      "text": "but running on the server. So even if you close your laptop, it'll"
+    },
+    {
+      "start": 526.86,
+      "end": 528.66,
+      "text": "keep going. So it's pretty awesome."
+    },
+    {
+      "start": 528.72,
+      "end": 530.92,
+      "text": "We have a bunch of routines that are running for the entire team."
+    },
+    {
+      "start": 531.98,
+      "end": 535.66,
+      "text": "And these are things that we want to happen across the whole code base, and we"
+    },
+    {
+      "start": 535.68,
+      "end": 538.34,
+      "text": "don't want every engineer doing it, we just want the entire team doing it."
+    },
+    {
+      "start": 539.04,
+      "end": 540.62,
+      "text": "So this is another area to experiment with."
+    },
+    {
+      "start": 540.7,
+      "end": 542.46,
+      "text": "Routines enable all sorts of automation."
+    },
+    {
+      "start": 542.98,
+      "end": 546.82,
+      "text": "They can hook into MCPs, so they can do things with GitHub, they can do things with"
+    },
+    {
+      "start": 546.94,
+      "end": 550.78,
+      "text": "Slack, they can query data. There's just all these new use"
+    },
+    {
+      "start": 550.84,
+      "end": 554.72,
+      "text": "cases with Claude running on a schedule on a server that I think no"
+    },
+    {
+      "start": 554.8,
+      "end": 558.32,
+      "text": "one has cracked yet at all. So think Agent SDK on"
+    },
+    {
+      "start": 558.42,
+      "end": 558.85,
+      "text": "steroids."
+    },
+    {
+      "start": 560.3,
+      "end": 563.68,
+      "text": "The third thing that I found very powerful is auto mode for permissions."
+    },
+    {
+      "start": 564.36,
+      "end": 567.48,
+      "text": "So personally, I don't use dangerous mode."
+    },
+    {
+      "start": 567.54,
+      "end": 571.34,
+      "text": "We're an AI safety lab, and so we know that the model can do"
+    },
+    {
+      "start": 571.38,
+      "end": 574.77,
+      "text": "weird stuff once in a while. And so if you're on dangerous mode, once in a while,"
+    },
+    {
+      "start": 574.82,
+      "end": 577.1,
+      "text": "it's just going to delete stuff, and that's not great."
+    },
+    {
+      "start": 577.98,
+      "end": 579.54,
+      "text": "But auto mode does not have that problem."
+    },
+    {
+      "start": 580.5,
+      "end": 583.46,
+      "text": "And so personally, since we introduced auto mode, that's what I've been using for"
+    },
+    {
+      "start": 583.54,
+      "end": 587.36,
+      "text": "all of my permissions. To try it, just Shift+Tab into it."
+    },
+    {
+      "start": 587.86,
+      "end": 591.04,
+      "text": "You need a Max plan, unfortunately not supported for Pro currently."
+    },
+    {
+      "start": 591.62,
+      "end": 595.14,
+      "text": "But with a Max plan or with API credits, just hit"
+    },
+    {
+      "start": 595.18,
+      "end": 598.71,
+      "text": "Shift+Tab, I think three times, and you get into auto mode."
+    },
+    {
+      "start": 599.66,
+      "end": 603.18,
+      "text": "With auto mode, every single permission request in Claude Code is"
+    },
+    {
+      "start": 603.32,
+      "end": 607.22,
+      "text": "routed to another Claude that sees the context of the conversation"
+    },
+    {
+      "start": 607.32,
+      "end": 609.88,
+      "text": "and will automatically accept or reject permissions for you."
+    },
+    {
+      "start": 610.5,
+      "end": 613.78,
+      "text": "And what this means is you don't have to sit there to press \"Yes, continue\""
+    },
+    {
+      "start": 613.84,
+      "end": 614.11,
+      "text": "anymore."
+    },
+    {
+      "start": 615.18,
+      "end": 617.98,
+      "text": "The model will just do it for you, and it's just amazing."
+    },
+    {
+      "start": 618.22,
+      "end": 621.72,
+      "text": "I've been using it for everything, and I couldn't imagine going back."
+    },
+    {
+      "start": 622.18,
+      "end": 626.1,
+      "text": "And again, this is one of those things where without it, it's very difficult to do"
+    },
+    {
+      "start": 626.14,
+      "end": 629.82,
+      "text": "long-running work because you keep having to go back and work"
+    },
+    {
+      "start": 629.92,
+      "end": 632.6,
+      "text": "on approve or reject the permission prompts."
+    },
+    {
+      "start": 633.34,
+      "end": 637.22,
+      "text": "But with auto mode, you just give Claude a task, you let it run, come back in an"
+    },
+    {
+      "start": 637.26,
+      "end": 639.98,
+      "text": "hour, and the task is done. And you don't have to sit there and babysit."
+    },
+    {
+      "start": 640.02,
+      "end": 642.6,
+      "text": "You can do something else. You can start a second Claude in the meantime."
+    },
+    {
+      "start": 644.19,
+      "end": 646.93,
+      "text": "And of course, these are the same kinds of things that enabled us to ship Claude"
+    },
+    {
+      "start": 647,
+      "end": 650.78,
+      "text": "Design. This kind of long-running work and better"
+    },
+    {
+      "start": 650.79,
+      "end": 654.53,
+      "text": "precision is exactly what Opus 4.7 is good at, and it's not just great for Claude"
+    },
+    {
+      "start": 654.56,
+      "end": 658.36,
+      "text": "Code, it's also good for things like Claude Design, and I think probably"
+    },
+    {
+      "start": 658.38,
+      "end": 661.36,
+      "text": "many applications that we haven't thought of yet."
+    },
+    {
+      "start": 662.02,
+      "end": 664.14,
+      "text": "But hopefully, all of you are going to build today."
+    },
+    {
+      "start": 665.76,
+      "end": 668.76,
+      "text": "So, with that, the last hackathon was very surprising."
+    },
+    {
+      "start": 669.72,
+      "end": 672.08,
+      "text": "There was a lot of winners that were not engineers."
+    },
+    {
+      "start": 672.2,
+      "end": 675.66,
+      "text": "There was people that were domain specialists and wrote code on the side, but their"
+    },
+    {
+      "start": 675.68,
+      "end": 679.04,
+      "text": "main job was not engineering, and they just built amazing stuff."
+    },
+    {
+      "start": 679.73,
+      "end": 683.58,
+      "text": "And, I'm so excited to see what everyone"
+    },
+    {
+      "start": 683.6,
+      "end": 686.98,
+      "text": "builds here based on what you know, based on the domains that you know best."
+    },
+    {
+      "start": 687.72,
+      "end": 688.88,
+      "text": "And, happy hacking."
+    },
+    {
+      "start": 693.68,
+      "end": 697.63,
+      "text": "Hello, everyone. My name is Ivan. I am the founder of Hero Valley,"
+    },
+    {
+      "start": 698.02,
+      "end": 700.55,
+      "text": "and I will be your host today"
+    },
+    {
+      "start": 701.24,
+      "end": 704.2,
+      "text": "alongside Jason. And"
+    },
+    {
+      "start": 705.24,
+      "end": 708.62,
+      "text": "we are bringing today the Build with Opus 4.7 Hackathon."
+    },
+    {
+      "start": 709.06,
+      "end": 712.96,
+      "text": "I'm the last person between you and getting ready"
+    },
+    {
+      "start": 713,
+      "end": 716.98,
+      "text": "to hack and getting you into hacking, so I'm going to cover some"
+    },
+    {
+      "start": 717.02,
+      "end": 720.77,
+      "text": "housekeeping slides, and then we'll get right into"
+    },
+    {
+      "start": 720.8,
+      "end": 721.1,
+      "text": "hacking"
+    },
+    {
+      "start": 721.18,
+      "end": 726.02,
+      "text": "afterwards.So"
+    },
+    {
+      "start": 726.06,
+      "end": 727.08,
+      "text": "for some hackathon rules,"
+    },
+    {
+      "start": 727.98,
+      "end": 731.46,
+      "text": "the first step is make sure everything you build here is open"
+    },
+    {
+      "start": 731.54,
+      "end": 734.38,
+      "text": "source. When you're submitting your project at the end of the week,"
+    },
+    {
+      "start": 735.2,
+      "end": 738.62,
+      "text": "you will be submitting a GitHub repository that we can access."
+    },
+    {
+      "start": 738.68,
+      "end": 740.8,
+      "text": "So make sure it's open source"
+    },
+    {
+      "start": 741.86,
+      "end": 743.04,
+      "text": "and we can access your work."
+    },
+    {
+      "start": 743.9,
+      "end": 747.76,
+      "text": "New work only. Please start from scratch at this hackathon and"
+    },
+    {
+      "start": 747.84,
+      "end": 751.7,
+      "text": "submit only what you build at"
+    },
+    {
+      "start": 751.74,
+      "end": 752.28,
+      "text": "this event."
+    },
+    {
+      "start": 753.58,
+      "end": 756.9,
+      "text": "Also, please do not build projects that violate legal,"
+    },
+    {
+      "start": 757.18,
+      "end": 761.16,
+      "text": "ethical, or platform policies, or use code, data, or assets that you"
+    },
+    {
+      "start": 761.18,
+      "end": 765.06,
+      "text": "do not have the rights to. And for team sizes, you can either"
+    },
+    {
+      "start": 765.07,
+      "end": 767.92,
+      "text": "do solo or up to two team members."
+    },
+    {
+      "start": 770.6,
+      "end": 774.36,
+      "text": "As Jason mentioned earlier, the two problem statements that we are"
+    },
+    {
+      "start": 774.42,
+      "end": 778.12,
+      "text": "focused on today is, the first one is build from what you know."
+    },
+    {
+      "start": 778.68,
+      "end": 780.16,
+      "text": "So again, that is"
+    },
+    {
+      "start": 782.56,
+      "end": 786.38,
+      "text": "focusing only on the specialty and something that only you"
+    },
+    {
+      "start": 786.44,
+      "end": 789.6,
+      "text": "can build and something that only you know how to build."
+    },
+    {
+      "start": 790.31,
+      "end": 793.72,
+      "text": "The second track is building for what's next."
+    },
+    {
+      "start": 794.21,
+      "end": 797.62,
+      "text": "So this is something reimagining a new workflow or"
+    },
+    {
+      "start": 798.78,
+      "end": 800.66,
+      "text": "building something that is"
+    },
+    {
+      "start": 801.78,
+      "end": 803.53,
+      "text": "for a future technology as well."
+    },
+    {
+      "start": 806.42,
+      "end": 810.06,
+      "text": "For prizes, we have the main track prizes,"
+    },
+    {
+      "start": 810.16,
+      "end": 814.1,
+      "text": "which are first place of $50,000 in"
+    },
+    {
+      "start": 814.14,
+      "end": 817.66,
+      "text": "Claude API credits. We've got $30,000"
+    },
+    {
+      "start": 818.32,
+      "end": 821.43,
+      "text": "in API credits for second place, and in third place, we have"
+    },
+    {
+      "start": 821.43,
+      "end": 823.94,
+      "text": "$10,000 in Claude API credits."
+    },
+    {
+      "start": 826.28,
+      "end": 830.1,
+      "text": "We also have a few special prizes that some teams"
+    },
+    {
+      "start": 830.18,
+      "end": 833.98,
+      "text": "may win. So the first one will be the most creative Opus"
+    },
+    {
+      "start": 834.36,
+      "end": 838.29,
+      "text": "4.7 exploration for $5,000 in API credits."
+    },
+    {
+      "start": 838.98,
+      "end": 842.83,
+      "text": "And this is for building something most"
+    },
+    {
+      "start": 842.86,
+      "end": 846.6,
+      "text": "creative. So, using Opus 4.7 as a creative medium,"
+    },
+    {
+      "start": 846.9,
+      "end": 847.54,
+      "text": "not just a tool."
+    },
+    {
+      "start": 848.48,
+      "end": 852.24,
+      "text": "We also have the Keep Thinking prize, which is another $5,000 in"
+    },
+    {
+      "start": 852.62,
+      "end": 853.34,
+      "text": "API credits."
+    },
+    {
+      "start": 854.199,
+      "end": 857.74,
+      "text": "And this is something where we want to"
+    },
+    {
+      "start": 857.82,
+      "end": 861.32,
+      "text": "see how your thinking evolved over"
+    },
+    {
+      "start": 861.36,
+      "end": 864.98,
+      "text": "time as you built out the project. You landed at one idea, but then you kept"
+    },
+    {
+      "start": 865.02,
+      "end": 865.8,
+      "text": "pushing it forward."
+    },
+    {
+      "start": 867.14,
+      "end": 871.04,
+      "text": "And then the third is the best use of Claude managed agents, which"
+    },
+    {
+      "start": 871.08,
+      "end": 874.38,
+      "text": "is also for $5,000 in API credits."
+    },
+    {
+      "start": 875.03,
+      "end": 879,
+      "text": "And this is how well you leveraged the"
+    },
+    {
+      "start": 879.04,
+      "end": 881.26,
+      "text": "Claude platform. So,"
+    },
+    {
+      "start": 882.52,
+      "end": 885.86,
+      "text": "in the submission process, as you're submitting your project,"
+    },
+    {
+      "start": 886.32,
+      "end": 889.86,
+      "text": "please make sure to describe exactly how"
+    },
+    {
+      "start": 890.08,
+      "end": 893.52,
+      "text": "you used Claude, how those managed agents worked,"
+    },
+    {
+      "start": 894.24,
+      "end": 898.1,
+      "text": "because that is what will be graded on alongside the code."
+    },
+    {
+      "start": 901.7,
+      "end": 905.58,
+      "text": "Apart from the code and description, we'll also require you to submit"
+    },
+    {
+      "start": 905.92,
+      "end": 909.22,
+      "text": "a three-minute demo video describing your project."
+    },
+    {
+      "start": 910.42,
+      "end": 912.56,
+      "text": "Please take some time and focus on this video."
+    },
+    {
+      "start": 913.96,
+      "end": 917.88,
+      "text": "The more time you invest in the video alongside what you build, the"
+    },
+    {
+      "start": 917.92,
+      "end": 921.76,
+      "text": "better the judges have an understanding of what you built."
+    },
+    {
+      "start": 922.04,
+      "end": 925.18,
+      "text": "So for this, please use a cloud tool such as Loom,"
+    },
+    {
+      "start": 925.98,
+      "end": 929.38,
+      "text": "or record it on your laptop"
+    },
+    {
+      "start": 929.44,
+      "end": 933.38,
+      "text": "through either maybe OBS or CapCut if so, into an"
+    },
+    {
+      "start": 933.4,
+      "end": 937.04,
+      "text": "MP4 that you can upload into YouTube or a public"
+    },
+    {
+      "start": 937.22,
+      "end": 938.2,
+      "text": "drive as well."
+    },
+    {
+      "start": 939.66,
+      "end": 943.12,
+      "text": "Also, in the submission process, you'll need a GitHub repository"
+    },
+    {
+      "start": 943.58,
+      "end": 947.38,
+      "text": "that is open sourced, a written description, and make"
+    },
+    {
+      "start": 947.42,
+      "end": 948.52,
+      "text": "sure to detail"
+    },
+    {
+      "start": 949.42,
+      "end": 950.6,
+      "text": "how you used Claude,"
+    },
+    {
+      "start": 951.86,
+      "end": 955.82,
+      "text": "how you approached the creativity, and how you pushed"
+    },
+    {
+      "start": 955.86,
+      "end": 956.92,
+      "text": "the boundaries of the thinking."
+    },
+    {
+      "start": 959.08,
+      "end": 963.06,
+      "text": "For the judging criteria, we're judging on four various aspects."
+    },
+    {
+      "start": 963.7,
+      "end": 967.58,
+      "text": "The first one is impact. So what is the real-world potential of the"
+    },
+    {
+      "start": 967.66,
+      "end": 971.38,
+      "text": "project and who it benefits? The second most important,"
+    },
+    {
+      "start": 971.76,
+      "end": 975.08,
+      "text": "and this one is key, is the demo."
+    },
+    {
+      "start": 976.28,
+      "end": 979.22,
+      "text": "How does the demo-- Is it impressive? Is it cool to watch?"
+    },
+    {
+      "start": 979.3,
+      "end": 982.54,
+      "text": "And that's why you should definitely focus some time on getting that video"
+    },
+    {
+      "start": 982.58,
+      "end": 982.94,
+      "text": "together."
+    },
+    {
+      "start": 984.179,
+      "end": 988.14,
+      "text": "Then there's the Opus 4.7 use and how well you"
+    },
+    {
+      "start": 988.2,
+      "end": 991.22,
+      "text": "used Opus 4.7 in your project. So make sure to detail"
+    },
+    {
+      "start": 991.3,
+      "end": 994.78,
+      "text": "that. And then, of course, the depth and execution is last."
+    },
+    {
+      "start": 995.56,
+      "end": 999.54,
+      "text": "How did your team push past a first idea?"
+    },
+    {
+      "start": 999.6,
+      "end": 1003.38,
+      "text": "How deep did you go into the execution capabilities of your project?"
+    },
+    {
+      "start": 1007.66,
+      "end": 1009.84,
+      "text": "So for judging, we'll have two stages."
+    },
+    {
+      "start": 1010.34,
+      "end": 1014.24,
+      "text": "The first stage will be asynchronous judging, where you"
+    },
+    {
+      "start": 1014.3,
+      "end": 1018.24,
+      "text": "submit your project on April 26th by"
+    },
+    {
+      "start": 1018.36,
+      "end": 1019.34,
+      "text": "8:00 PM EST."
+    },
+    {
+      "start": 1021.18,
+      "end": 1025.03,
+      "text": "Then a group of judges from the CD team and the Anthropic"
+    },
+    {
+      "start": 1025.08,
+      "end": 1029.02,
+      "text": "team will go in and review all of the video submissions"
+    },
+    {
+      "start": 1029.08,
+      "end": 1030.661,
+      "text": "that are submitted."
+    },
+    {
+      "start": 1032.401,
+      "end": 1036.151,
+      "text": "You should have uploaded that video, that code, the written summary,"
+    },
+    {
+      "start": 1036.62,
+      "end": 1038.69,
+      "text": "and judges will evaluate the projects."
+    },
+    {
+      "start": 1040.401,
+      "end": 1041.71,
+      "text": "From the first round of judging,"
+    },
+    {
+      "start": 1042.62,
+      "end": 1046.1,
+      "text": "we will narrow down to the top"
+    },
+    {
+      "start": 1046.24,
+      "end": 1050.18,
+      "text": "six teams, that will then come"
+    },
+    {
+      "start": 1050.24,
+      "end": 1054.04,
+      "text": "and advance to the final round of the"
+    },
+    {
+      "start": 1054.68,
+      "end": 1058.6,
+      "text": "judging sessions, and that will be on April 28th, next"
+    },
+    {
+      "start": 1058.62,
+      "end": 1060.63,
+      "text": "Tuesday, at noon EST."
+    },
+    {
+      "start": 1062.44,
+      "end": 1066.36,
+      "text": "In that session, what will happen is there will be a panel of"
+    },
+    {
+      "start": 1066.4,
+      "end": 1068.62,
+      "text": "judges, including Boris and Jason."
+    },
+    {
+      "start": 1069.54,
+      "end": 1071.4,
+      "text": "They will be watching the"
+    },
+    {
+      "start": 1072.68,
+      "end": 1076.59,
+      "text": "top six pre-recorded demos and giving their"
+    },
+    {
+      "start": 1076.68,
+      "end": 1078.57,
+      "text": "feedback on what they thought and"
+    },
+    {
+      "start": 1080.12,
+      "end": 1083.94,
+      "text": "any questions they have as well. After the top"
+    },
+    {
+      "start": 1083.96,
+      "end": 1086.91,
+      "text": "six videos play, the judges will then go back and"
+    },
+    {
+      "start": 1088.02,
+      "end": 1091.9,
+      "text": "deliberate and determine the first, second, and third place, along"
+    },
+    {
+      "start": 1091.94,
+      "end": 1093.58,
+      "text": "with the extra prizes as"
+    },
+    {
+      "start": 1093.62,
+      "end": 1097.09,
+      "text": "well.Just a quick"
+    },
+    {
+      "start": 1097.15,
+      "end": 1100.9,
+      "text": "overview on the timeline. As Jason mentioned earlier, we've got"
+    },
+    {
+      "start": 1100.95,
+      "end": 1104.67,
+      "text": "some fun sessions for you today. So in this"
+    },
+    {
+      "start": 1104.69,
+      "end": 1108.13,
+      "text": "Discord, we have an office hours channel"
+    },
+    {
+      "start": 1108.83,
+      "end": 1110.09,
+      "text": "that will be staffed"
+    },
+    {
+      "start": 1110.91,
+      "end": 1114.59,
+      "text": "from 5:00 to 6:00 PM EST every day by a member"
+    },
+    {
+      "start": 1114.71,
+      "end": 1118.49,
+      "text": "of the Claude Code team. So if you have any questions during"
+    },
+    {
+      "start": 1118.55,
+      "end": 1121.989,
+      "text": "the days as you're hacking, please post there."
+    },
+    {
+      "start": 1123.23,
+      "end": 1127.21,
+      "text": "So today is when kickoff begins. After I'm done"
+    },
+    {
+      "start": 1127.43,
+      "end": 1131.31,
+      "text": "with the housekeeping slides, you can get right into hacking."
+    },
+    {
+      "start": 1132.73,
+      "end": 1136.69,
+      "text": "And please feel free to intro yourself in an intros channel, post"
+    },
+    {
+      "start": 1136.73,
+      "end": 1140.67,
+      "text": "in general. Tomorrow, Wednesday, 12:00 to 1:00 PM, we"
+    },
+    {
+      "start": 1140.73,
+      "end": 1142.25,
+      "text": "have a live session with Tark,"
+    },
+    {
+      "start": 1143.89,
+      "end": 1147.85,
+      "text": "which will be an AMA. On Thursday, we'll have a"
+    },
+    {
+      "start": 1147.93,
+      "end": 1151.53,
+      "text": "second live session, which will be an overview of how to use"
+    },
+    {
+      "start": 1151.59,
+      "end": 1153.79,
+      "text": "Claude Managed Agents with Michael Cohen."
+    },
+    {
+      "start": 1154.81,
+      "end": 1158.57,
+      "text": "On Friday, we'll have a third live session with Mike"
+    },
+    {
+      "start": 1158.59,
+      "end": 1158.85,
+      "text": "Brown,"
+    },
+    {
+      "start": 1159.99,
+      "end": 1163.59,
+      "text": "and he was the winner of the previous hackathon, so"
+    },
+    {
+      "start": 1163.81,
+      "end": 1167.75,
+      "text": "he will give us some insights on what he"
+    },
+    {
+      "start": 1167.79,
+      "end": 1170.07,
+      "text": "worked on in the last hackathon and where he is"
+    },
+    {
+      "start": 1170.09,
+      "end": 1172.01,
+      "text": "today."
+    },
+    {
+      "start": 1173.45,
+      "end": 1176.59,
+      "text": "Then, on Sunday is our last live session,"
+    },
+    {
+      "start": 1178.29,
+      "end": 1180.97,
+      "text": "and the live session will bring in another winner."
+    },
+    {
+      "start": 1181.01,
+      "end": 1184.23,
+      "text": "He was a third place, Michal,"
+    },
+    {
+      "start": 1184.91,
+      "end": 1188.85,
+      "text": "from the last Claude Code Hackathon, and he will also share"
+    },
+    {
+      "start": 1189.45,
+      "end": 1193.09,
+      "text": "his insights, learnings, and how he went"
+    },
+    {
+      "start": 1193.11,
+      "end": 1194.109,
+      "text": "viral after the event."
+    },
+    {
+      "start": 1195.61,
+      "end": 1198.61,
+      "text": "On Monday is when submissions"
+    },
+    {
+      "start": 1199.55,
+      "end": 1202.21,
+      "text": "will be reviewed for first-round judging."
+    },
+    {
+      "start": 1202.49,
+      "end": 1206.29,
+      "text": "So Sunday night is when submissions are due, and Monday will be a first-round"
+    },
+    {
+      "start": 1206.33,
+      "end": 1210.15,
+      "text": "judging of review. And then on Tuesday at noon"
+    },
+    {
+      "start": 1210.21,
+      "end": 1213.89,
+      "text": "EST is when we will have the final round judging presentation."
+    },
+    {
+      "start": 1214.37,
+      "end": 1217.05,
+      "text": "So you have a full week of hacking pretty much."
+    },
+    {
+      "start": 1220.07,
+      "end": 1220.55,
+      "text": "And with that,"
+    },
+    {
+      "start": 1221.47,
+      "end": 1222.91,
+      "text": "that is all the housekeeping slides."
+    },
+    {
+      "start": 1223.09,
+      "end": 1226.75,
+      "text": "As a reminder, please post in the Discord"
+    },
+    {
+      "start": 1227.43,
+      "end": 1231.29,
+      "text": "if you have any questions in the questions channel or in the"
+    },
+    {
+      "start": 1231.35,
+      "end": 1235.11,
+      "text": "office hours channel. Also, one note in terms of credits."
+    },
+    {
+      "start": 1235.91,
+      "end": 1238.25,
+      "text": "My team will be provisioning those credits"
+    },
+    {
+      "start": 1239.13,
+      "end": 1240.33,
+      "text": "in a few hours."
+    },
+    {
+      "start": 1241.27,
+      "end": 1244.93,
+      "text": "Once we have all the codes in place, we will send an"
+    },
+    {
+      "start": 1245.01,
+      "end": 1248.65,
+      "text": "email to each of the applicants that got accepted"
+    },
+    {
+      "start": 1248.69,
+      "end": 1252.57,
+      "text": "individually. You will receive those $500 in API"
+    },
+    {
+      "start": 1252.59,
+      "end": 1255.97,
+      "text": "credits that you can use for your project throughout the duration of the"
+    },
+    {
+      "start": 1256.01,
+      "end": 1259.61,
+      "text": "event. My team is also in the Discord with the"
+    },
+    {
+      "start": 1259.77,
+      "end": 1260.71,
+      "text": "CV"
+    },
+    {
+      "start": 1261.69,
+      "end": 1265.679,
+      "text": "status as well. So at any point in time, please tag me or my"
+    },
+    {
+      "start": 1265.75,
+      "end": 1269.679,
+      "text": "team if you're having any issues. And with that,"
+    },
+    {
+      "start": 1270.57,
+      "end": 1271.13,
+      "text": "let's get hacking."
+    },
+    {
+      "start": 1272.91,
+      "end": 1276.88,
+      "text": "Harming me, that won't be done. I stand protected by the laws of"
+    },
+    {
+      "start": 1277.01,
+      "end": 1279.83,
+      "text": "fun. I am perfected through the rhymes I run."
+    },
+    {
+      "start": 1280.11,
+      "end": 1281.81,
+      "text": "Walk it this way and lead the party-"
+    }
+  ],
+  "summary": {
+    "tldr": "Kickoff for the second Claude Code hackathon — Boris walks through /loop, routines, and auto mode on 4.7; Ivan covers tracks, prizes, submission format, and the judging timeline.",
+    "overview": "Jason opens with stats on the cohort: 20,000+ applications, 500 accepted across 76 countries, 95% self-identifying as experienced or expert in Claude Code. He frames the two build tracks ('build from what you know' and 'build for what's next') and the special prizes. Boris follows with reflections on Opus 4.7, demoing /loop, routines, and auto mode as mechanisms for long-running work, and notes that using 4.7 like 4.6 won't surface the jump in capability. Ivan closes with housekeeping: rules (open source, new work only, solo or two-person teams), prize amounts in API credits, the four judging criteria, the two-stage judging process, and the week's live session schedule.",
+    "speakers": [
+      "Jason Bigman",
+      "Boris Cherny",
+      "Ivan"
+    ],
+    "topics": [
+      {
+        "timestamp": 21.5,
+        "title": "Cohort stats and reach",
+        "summary": "Jason shares the 2.4% acceptance rate, 76-country spread, and the range of participant backgrounds."
+      },
+      {
+        "timestamp": 179.8,
+        "title": "Week's structure and tracks",
+        "summary": "Jason introduces the two build prompts, special prizes, talks lineup, and community mentors in Discord."
+      },
+      {
+        "timestamp": 342.5,
+        "title": "Using Opus 4.7 differently",
+        "summary": "Boris frames 4.7 as a step up in long-running work and precision that requires clearer prompting."
+      },
+      {
+        "timestamp": 463.6,
+        "title": "/loop and routines",
+        "summary": "Boris demos /loop for PR babysitting and CI cleanup, and routines as server-side loops with MCP hooks."
+      },
+      {
+        "timestamp": 560.3,
+        "title": "Auto mode for permissions",
+        "summary": "Boris walks through auto mode as a Max-plan alternative to dangerous mode, accessed via Shift+Tab."
+      },
+      {
+        "timestamp": 693.7,
+        "title": "Rules and tracks",
+        "summary": "Ivan covers open-source requirement, new-work-only rule, team size limits, and the two problem statements."
+      },
+      {
+        "timestamp": 806.4,
+        "title": "Prizes and submission format",
+        "summary": "Ivan details API credit amounts, three-minute demo video, GitHub repo, and written description requirements."
+      },
+      {
+        "timestamp": 1007.7,
+        "title": "Two-stage judging and timeline",
+        "summary": "Ivan explains async first-round judging on April 26, top six advancing to April 28 final round."
+      }
+    ],
+    "qa": [],
+    "quotes": [
+      {
+        "timestamp": 400.5,
+        "speaker": "Boris Cherny",
+        "text": "If you use it the same way that you used 4.6, you won't feel that step up. You might feel a little improvement, but it won't feel like the big bump that it really is.",
+        "why_it_matters": "Frames 4.7 adoption as a prompting-style change, not a drop-in upgrade."
+      },
+      {
+        "timestamp": 433.8,
+        "speaker": "Boris Cherny",
+        "text": "I've run 4.7 for multiple days at a time, and it stays on track.",
+        "why_it_matters": "A concrete personal data point on 4.7's long-running behavior."
+      },
+      {
+        "timestamp": 567.5,
+        "speaker": "Boris Cherny",
+        "text": "We're an AI safety lab, and so we know that the model can do weird stuff once in a while. If you're on dangerous mode, once in a while it's just going to delete stuff.",
+        "why_it_matters": "Rationale for preferring auto mode over dangerous mode."
+      },
+      {
+        "timestamp": 550.8,
+        "speaker": "Boris Cherny",
+        "text": "There's just all these new use cases with Claude running on a schedule on a server that I think no one has cracked yet at all. Think Agent SDK on steroids.",
+        "why_it_matters": "Points at routines as an underexplored surface heading into the week."
+      },
+      {
+        "timestamp": 669.7,
+        "speaker": "Boris Cherny",
+        "text": "There was a lot of winners that were not engineers. There were people that were domain specialists and wrote code on the side.",
+        "why_it_matters": "Sets expectations that non-engineering backgrounds are competitive."
+      }
+    ],
+    "surprising": [
+      {
+        "timestamp": 51.7,
+        "insight": "20,000+ applications came in during a ~48-hour window, yielding a 2.4% acceptance rate for the 500 spots.",
+        "evidence": "'We had applications open for a little bit more than 48 hours, and we received more than 20,000 applications. So the 500 of you all represent just a 2.4% acceptance rate.'"
+      },
+      {
+        "timestamp": 467.1,
+        "insight": "/loop reawakens a single Claude on an interval (five minutes, 30 minutes, daily) for repetitive side work like PR babysitting and CI cleanup.",
+        "evidence": "'It'll reawaken every five minutes, 30 minutes, day, however often you tell it… I have a loop that will babysit it, it'll auto-rebase it, it'll fix CI, it'll address code review comments.'"
+      },
+      {
+        "timestamp": 587.9,
+        "insight": "Auto mode requires a Max plan or API credits — not available on Pro — and is reached via Shift+Tab roughly three times.",
+        "evidence": "'You need a Max plan, unfortunately not supported for Pro currently. But with a Max plan or with API credits, just hit Shift+Tab, I think three times, and you get into auto mode.'"
+      },
+      {
+        "timestamp": 599.7,
+        "insight": "In auto mode, permission requests are routed to a separate Claude that sees conversation context and approves or rejects them automatically.",
+        "evidence": "'Every single permission request in Claude Code is routed to another Claude that sees the context of the conversation and will automatically accept or reject permissions for you.'"
+      },
+      {
+        "timestamp": 518.7,
+        "insight": "Routines run server-side, continue after the laptop closes, and can hook into MCPs for GitHub, Slack, or data queries.",
+        "evidence": "'A loop but running on the server. So even if you close your laptop, it'll keep going… They can hook into MCPs, so they can do things with GitHub, they can do things with Slack, they can query data.'"
+      }
+    ],
+    "between_the_lines": [
+      {
+        "timestamp": 385.1,
+        "reading": "The framing that 'people just don't really get it yet' for 4.7 could hint at an upcoming content push on prompting patterns.",
+        "evidence": "'I think people just don't really get it yet… we're going to start to talk about a little bit more maybe on Twitter and in blog posts and things like that, but I'll kind of preview it here.'"
+      },
+      {
+        "timestamp": 550.8,
+        "reading": "Repeated emphasis on routines being 'uncracked' might be read as a nudge toward that surface for hackathon submissions.",
+        "evidence": "'There's just all these new use cases with Claude running on a schedule on a server that I think no one has cracked yet at all.'"
+      },
+      {
+        "timestamp": 662,
+        "reading": "Boris highlighting non-engineer winners from the last hackathon could be read as encouragement for domain-specific, 'build from what you know' submissions.",
+        "evidence": "'There was a lot of winners that were not engineers. There was people that were domain specialists and wrote code on the side, but their main job was not engineering.'"
+      }
+    ],
+    "feature_guides": [
+      {
+        "timestamp": 467.1,
+        "name": "/loop",
+        "category": "command",
+        "one_liner": "A single Claude that reawakens on a schedule (5 min, 30 min, daily) for repetitive side work.",
+        "details": [
+          "Runs locally — it's a single Claude that re-enters on the interval you set.",
+          "Boris has dozens running at once; uses it daily for work that isn't the main thing being built.",
+          "Example loops he runs: one that babysits a PR (auto-rebase, fix CI, address review comments until it ships), one that cleans up CI by fixing or deleting consistently failing tests every 30 minutes.",
+          "Fits any repetitive task that doesn't need the builder's direct attention."
+        ],
+        "speaker": "Boris Cherny",
+        "quote": "I use this every day. I have dozens of loops running any given moment."
+      },
+      {
+        "timestamp": 518.7,
+        "name": "Routines",
+        "category": "feature",
+        "one_liner": "A loop that runs server-side, so it keeps going after you close your laptop.",
+        "details": [
+          "Runs on the server rather than on your machine — closing the laptop doesn't stop it.",
+          "Designed for work that should happen across a whole codebase or team, not per-engineer.",
+          "Can hook into MCPs — GitHub, Slack, data queries — to compose automations.",
+          "Framed as 'Agent SDK on steroids' for scheduled work.",
+          "Boris notes this surface as one no one has fully explored yet."
+        ],
+        "speaker": "Boris Cherny",
+        "quote": "There's just all these new use cases with Claude running on a schedule on a server that I think no one has cracked yet at all."
+      },
+      {
+        "timestamp": 560.3,
+        "name": "Auto mode (permissions)",
+        "category": "feature",
+        "one_liner": "Permission prompts are routed to a separate Claude that approves or rejects them using conversation context.",
+        "details": [
+          "Activate by pressing Shift+Tab roughly three times.",
+          "Requires a Max plan or API credits — not available on Pro.",
+          "Every permission request inside Claude Code is sent to a second Claude that sees the conversation and decides automatically.",
+          "Removes the need to sit and press 'Yes, continue' for long-running tasks — give Claude a job, come back later, task done.",
+          "Boris positions this as distinct from dangerous mode; he doesn't use dangerous mode because the model occasionally does something unintended.",
+          "Makes it practical to run a second Claude on another task in parallel."
+        ],
+        "speaker": "Boris Cherny",
+        "quote": "You just give Claude a task, you let it run, come back in an hour, and the task is done."
+      },
+      {
+        "timestamp": 443.0,
+        "name": "Precise prompting for 4.7",
+        "category": "pattern",
+        "one_liner": "4.7 follows instructions more literally than 4.6 — articulate the goal more clearly and it'll stay on track.",
+        "details": [
+          "4.7 listens more precisely than 4.6 and follows instructions more tightly.",
+          "The practical consequence: vague prompts that 'worked' with 4.6 underperform here; sharpening the prompt yields the bigger step-up.",
+          "Paired with its long-running stamina, a well-specified goal will run to completion without drifting.",
+          "Boris's framing: if you use 4.7 the same way as 4.6, you won't feel the jump."
+        ],
+        "speaker": "Boris Cherny",
+        "quote": "You have to articulate your prompt more clearly than you did with previous models, because it'll listen more precisely to what you said."
+      },
+      {
+        "timestamp": 419.2,
+        "name": "Long-running work",
+        "category": "pattern",
+        "one_liner": "4.7 stays on the rails for 30 minutes, hours, or multi-day runs where earlier models drifted.",
+        "details": [
+          "Boris reports running 4.7 for multiple days continuously with the model staying on task.",
+          "The combination that enables this in practice: /loop or routines for cadence, auto mode so permissions don't gate progress, precise prompts so the goal doesn't drift.",
+          "Same capability that shipped Claude Design internally."
+        ],
+        "speaker": "Boris Cherny",
+        "quote": "I've run 4.7 for multiple days at a time, and it stays on track."
+      },
+      {
+        "timestamp": 640.0,
+        "name": "Parallel Claudes",
+        "category": "pattern",
+        "one_liner": "Start a second Claude on a different task while the first one runs in auto mode.",
+        "details": [
+          "With auto mode removing the need to babysit permission prompts, you can hand off one task and open another Claude on something else.",
+          "Combines with /loop and routines: background work happens on schedule while you work interactively on something else."
+        ],
+        "speaker": "Boris Cherny",
+        "quote": "You can start a second Claude in the meantime."
+      },
+      {
+        "timestamp": 776.0,
+        "name": "Track 1 — Build from what you know",
+        "category": "rule",
+        "one_liner": "Build the thing only you would know to build — from your domain, community, or life.",
+        "details": [
+          "Aimed at real-world problems, niche interests, things that take weeks today and should take hours.",
+          "Jason's note: the last hackathon's winners skewed toward domain specialists who code on the side, not full-time engineers — the pattern is to build from what you know best."
+        ],
+        "speaker": "Jason Bigman / Ivan"
+      },
+      {
+        "timestamp": 790.3,
+        "name": "Track 2 — Build for what's next",
+        "category": "rule",
+        "one_liner": "Start from something that doesn't exist yet — a new way to work or learn that only makes sense now.",
+        "details": [
+          "Aim for where the models are going, even if they're not quite there yet.",
+          "Jason's heuristic: if it's easier to demo than to explain, you're on the right track."
+        ],
+        "speaker": "Jason Bigman / Ivan"
+      },
+      {
+        "timestamp": 826.3,
+        "name": "Special prizes",
+        "category": "rule",
+        "one_liner": "Three $5,000 side prizes on top of the main-track podium.",
+        "details": [
+          "Most Creative Opus 4.7 Exploration — using 4.7 as a creative medium, not just a tool.",
+          "Keep Thinking — for projects whose idea visibly evolved; judges want to see how the thinking pushed forward past the first idea.",
+          "Best Use of Claude Managed Agents — graded on how well the Claude platform and its managed agents were leveraged; describe this explicitly in the submission."
+        ],
+        "speaker": "Ivan / Jason"
+      },
+      {
+        "timestamp": 901.7,
+        "name": "Submission requirements",
+        "category": "rule",
+        "one_liner": "Open-source GitHub repo + written description + 3-minute demo video, new work only.",
+        "details": [
+          "Code must be open source and the repo accessible to judges.",
+          "New work only — start from scratch at the hackathon; submit only what was built during the event.",
+          "Three-minute demo video is required. Ivan suggests Loom, OBS, or CapCut; upload to YouTube or a public drive as MP4.",
+          "Written description should detail how you used Claude, how managed agents worked, how you approached creativity, and how you pushed the thinking.",
+          "No projects that violate legal, ethical, or platform policies, or use code/data/assets without rights.",
+          "Team size: solo or up to two people."
+        ],
+        "speaker": "Ivan"
+      },
+      {
+        "timestamp": 959.1,
+        "name": "Judging criteria (four axes)",
+        "category": "rule",
+        "one_liner": "Impact, demo quality, Opus 4.7 use, and depth of execution.",
+        "details": [
+          "Impact — real-world potential of the project and who benefits.",
+          "Demo — is it impressive, is it cool to watch; Ivan calls this out as key, which is why the video deserves real time.",
+          "Opus 4.7 use — how well 4.7 was used in the project; detail this in the write-up.",
+          "Depth and execution — how the team pushed past the first idea."
+        ],
+        "speaker": "Ivan"
+      },
+      {
+        "timestamp": 1007.7,
+        "name": "Two-stage judging",
+        "category": "rule",
+        "one_liner": "Async review narrows to top six; a live panel with Boris and Jason picks the podium.",
+        "details": [
+          "Submissions due April 26 at 8:00 PM EST.",
+          "Round one: asynchronous review by a panel from the Claude Code and Anthropic teams.",
+          "Round two: top six demos replayed on April 28 at noon EST; judges including Boris and Jason give feedback and deliberate the podium + side prizes live."
+        ],
+        "speaker": "Ivan"
+      },
+      {
+        "timestamp": 1104.7,
+        "name": "Office hours & live sessions",
+        "category": "resource",
+        "one_liner": "A Claude Code team member staffs office hours 5–6 PM EST daily; four additional live talks through the week.",
+        "details": [
+          "Office hours channel: 5:00–6:00 PM EST daily, staffed by a Claude Code team member.",
+          "Wed 12–1 PM ET: AMA with Thariq.",
+          "Thu: Claude Managed Agents overview with Michael Cohen.",
+          "Fri: session with Mike Brown, winner of the previous hackathon.",
+          "Sun: session with Michal, third-place winner of the previous hackathon, on going viral post-event."
+        ],
+        "speaker": "Ivan"
+      },
+      {
+        "timestamp": 1235.9,
+        "name": "$500 API credits per accepted builder",
+        "category": "resource",
+        "one_liner": "Credits arrive by email from Cerebral Valley within hours of kickoff.",
+        "details": [
+          "$500 in Anthropic API credits emailed individually to each accepted applicant.",
+          "Provisioned 'in a few hours' after kickoff; Ivan's team is in Discord with CV status if anything goes wrong.",
+          "Usable throughout the event."
+        ],
+        "speaker": "Ivan"
+      }
+    ]
+  },
+  "created_at": "2026-04-22T18:16:01.606Z",
+  "updated_at": "2026-04-22T20:29:55Z"
+}
