@@ -48,19 +48,27 @@ export function ParticipantCard({ p }: { p: Participant }) {
   const showScore = p.role === "participant" && !!gh;
   const roleStyle = ROLE_CARD_STYLE[p.role];
 
+  const cardHref = `/p/${encodeURIComponent(p.handle)}`;
+
   return (
-    <Link
-      href={`/p/${encodeURIComponent(p.handle)}`}
+    <article
       style={roleStyle}
       className={
-        "group block rounded-2xl p-4 h-full transition focus:outline-none " +
-        "focus-visible:ring-2 focus-visible:ring-accent " +
+        "group relative block rounded-2xl p-4 h-full transition focus-within:outline-none " +
         (p.role === "participant"
           ? "bg-surface ring-1 ring-border hover:ring-border-hover hover:bg-surface-hover"
           : "hover:opacity-95")
       }
     >
-      <div className="flex items-start gap-3">
+      {/* Stretched-link overlay: covers the whole card so it's clickable,
+          but is a sibling to (not a parent of) the Socials anchors below. */}
+      <Link
+        href={cardHref}
+        aria-label={`View ${fullName(p)}`}
+        className="absolute inset-0 rounded-2xl z-0 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+      />
+
+      <div className="flex items-start gap-3 relative pointer-events-none">
         <Avatar participant={p} size="md" />
         <div className="min-w-0 flex-1">
           <div className="flex items-center gap-2 flex-wrap">
@@ -101,13 +109,13 @@ export function ParticipantCard({ p }: { p: Participant }) {
       </div>
 
       {p.description && (
-        <p className="mt-3 text-[13px] leading-relaxed text-text-soft line-clamp-3">
+        <p className="mt-3 text-[13px] leading-relaxed text-text-soft line-clamp-3 relative pointer-events-none">
           {p.description}
         </p>
       )}
 
       {gh && (
-        <div className="mt-3 flex flex-wrap gap-x-4 gap-y-0.5 text-[11px] font-mono text-muted tabular-nums">
+        <div className="mt-3 flex flex-wrap gap-x-4 gap-y-0.5 text-[11px] font-mono text-muted tabular-nums relative pointer-events-none">
           <span>{formatCount(gh.followers)} fol</span>
           <span>{formatCount(gh.totalStars)} ★</span>
           <span>{formatCount(gh.contributionsLastYear)} contribs·1y</span>
@@ -115,12 +123,12 @@ export function ParticipantCard({ p }: { p: Participant }) {
         </div>
       )}
 
-      <div className="mt-3 pt-3 border-t border-border flex items-center justify-between gap-2">
+      <div className="mt-3 pt-3 border-t border-border flex items-center justify-between gap-2 relative z-10">
         <Socials s={p.socials} compact />
-        <span className="text-[11px] text-muted group-hover:text-foreground transition">
+        <span className="text-[11px] text-muted group-hover:text-foreground transition pointer-events-none">
           view →
         </span>
       </div>
-    </Link>
+    </article>
   );
 }
