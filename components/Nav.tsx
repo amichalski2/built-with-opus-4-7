@@ -6,6 +6,7 @@ import { ThemeToggle } from "./ThemeToggle";
 
 const LINKS: { href: string; label: string; match: (p: string) => boolean }[] = [
   { href: "/", label: "People", match: (p) => p === "/" || p.startsWith("/p/") },
+  { href: "/ama", label: "AMA Notes", match: (p) => p.startsWith("/ama") },
   { href: "/resources", label: "Resources", match: (p) => p.startsWith("/resources") },
   { href: "/details", label: "Details", match: (p) => p.startsWith("/details") },
 ];
